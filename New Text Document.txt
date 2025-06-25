@@ -1,0 +1,61 @@
+line 576
+
+<div> <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-8">
+                    <div class="section-title text-center pt-50 pb-30">
+                        <h2 class="title">Projects</h2>
+                        <p></p>
+                    </div> <!-- section title -->
+                </div>
+            </div> <!-- row -->
+            <div class="row">
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="single-work text-center mt-30">
+                        <h3 class="work-text">Fresco</h3>
+                        <div class="work-overlay">
+                            <div class="work-content">
+                                <h3 class="work-title">Fresco</h3>
+                                <ul>
+                                    <li><a href="https://github.com/mayanksingla34/Fresco" target="_blank"><i
+                                                class="lni-github-original"></i></a></li>
+                                    <li><a href="https://bit.ly/frescodemo" target="_blank"><i
+                                                class="lni-link"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div> <!-- single work -->
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="single-work text-center mt-30">
+                        <h3 class="work-text">Tax Calculator</h3>
+                        <div class="work-overlay">
+                            <div class="work-content">
+                                <h3 class="work-title">Tax Calculator</h3>
+                                <ul>
+                                    <li><a href="https://github.com/mayanksingla34/Tax_Calculator" target="_blank"><i
+                                                class="lni-github-original"></i></a></li>
+                                    <li><a href="https://mayanksingla34.github.io/Tax_Calculator/" target="_blank"><i
+                                                class="lni-link"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div> <!-- single work -->
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="single-work text-center mt-30">
+                        <h3 class="work-text">Ethical Hacking</h3>
+                        <div class="work-overlay">
+                            <div class="work-content">
+                                <h3 class="work-title">Ethical Hacking</h3>
+                                <ul>
+                                    <li><a href="https://github.com/mayanksingla34/Ethical-Hacking" target="_blank"><i
+                                                class="lni-github-original"></i></a></li>
+                                    <!-- <li><a href="#work"><i class="lni-link"></i></a></li> -->
+                                </ul>
+                            </div>
+                        </div>
+                    </div> <!-- single work -->
+                </div>
+            </div> <!-- row -->
+        </div> <!-- container --></div>
